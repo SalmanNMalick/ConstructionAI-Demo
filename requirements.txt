@@ -1,0 +1,13 @@
+langchain
+langchain-community
+transformers
+torch
+pandas
+autogen
+fastapi
+uvicorn
+ray
+networkx
+matplotlib
+numpy
+huggingface-hub
